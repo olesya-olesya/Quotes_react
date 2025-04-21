@@ -40,3 +40,23 @@
 .read-the-docs {
   color: #888;
 }
+.quote-list{
+  display:flex;
+  gap:20px;
+  flex-wrap:wrap;
+  align-items: center;
+  justify-content: center;
+}
+.buttons-wrapper{
+  display:flex;
+  gap:20px;
+  align-items: center;
+  justify-content: start;
+  margin-bottom:20px;
+}
+.spinner{
+  width:100vw;
+  height: 100vh;
+  font-weight: bold;
+ 
+}
