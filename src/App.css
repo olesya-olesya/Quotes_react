@@ -41,6 +41,7 @@
   color: #888;
 }
 .quote-list{
+  padding-top:100px;
   display:flex;
   gap:20px;
   flex-wrap:wrap;
@@ -48,15 +49,11 @@
   justify-content: center;
 }
 .buttons-wrapper{
+ 
   display:flex;
   gap:20px;
   align-items: center;
   justify-content: start;
   margin-bottom:20px;
 }
-.spinner{
-  width:100vw;
-  height: 100vh;
-  font-weight: bold;
- 
-}
+
